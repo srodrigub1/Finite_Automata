@@ -81,7 +81,7 @@ automata.exe
 if you want to run directly the program do this command:
 
 ``` bash
-g++ main.cpp Automata.cpp -o automata
+g++ main.cpp -o automata ./automata
 ```
 ## Option 2 — Using CMake
 
