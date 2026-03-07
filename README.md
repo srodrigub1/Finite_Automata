@@ -125,4 +125,6 @@ The algorithm works in the following way:
 
 This allows the program to simulate basic concepts used in automata theory.
 
+# Video link
+https://drive.google.com/file/d/1WSK4GHbRalRRcRwNdq6lDdbn_iY40Aaj/view?usp=sharing
 ---
