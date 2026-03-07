@@ -1,4 +1,7 @@
 # Finite Automata – Formal Languages Project
+# Autors
+Sebastian Rodriguez Bayona
+Jeronimo Jaramillo Agudelo
 
 ## Operating System, Programming Language and Tools
 
