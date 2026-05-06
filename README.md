@@ -124,7 +124,3 @@ The algorithm works in the following way:
 4. Use these states to represent the behavior of the automaton.
 
 This allows the program to simulate basic concepts used in automata theory.
-
-# Video link
-https://drive.google.com/file/d/1WSK4GHbRalRRcRwNdq6lDdbn_iY40Aaj/view?usp=sharing
----
